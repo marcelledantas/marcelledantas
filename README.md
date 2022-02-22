@@ -1,4 +1,7 @@
 # Hello There 👋 I'm Marcelle Dantas!
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Fulltstack+Developer">
+</p>
 
 I'm a self-taught passionate Fullstack developer from Brazil 🇧🇷
 
@@ -12,8 +15,6 @@ I'm a self-taught passionate Fullstack developer from Brazil 🇧🇷
 #
 # My Skill Set <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -105,13 +106,15 @@ const vedant = {
 
 <br>
 
+##
 <br>
 
 [![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=marcelledantas&layout=compact)](https://github.com/Envoy-VC/Envoy-VC)
 
 <br>
-<br>
 
+
+ ##
 <br>
 
 <img src="https://i.ibb.co/0MZzJ2d/download.png" border="0">
