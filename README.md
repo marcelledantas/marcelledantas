@@ -7,10 +7,10 @@ I'm a self-taught passionate Fullstack developer from Brazil 🇧🇷
 - 💼 Software Developer Intern 
 - ❤️ I love writing Python, and I am currently doing a Python Bootcamp.
 - 👯 I’m looking to contribute to open source
-- 🌵 Fun fact: I love to go for a hiking
+- 🌵 Fun fact: I love going for a hiking
 
 #
-    ## My Skill Set  
+# My Skill Set <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <table><tr><td valign="top" width="33%">
 
 
@@ -46,7 +46,6 @@ I'm a self-taught passionate Fullstack developer from Brazil 🇧🇷
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
 </div>
 
@@ -70,8 +69,6 @@ I'm a self-taught passionate Fullstack developer from Brazil 🇧🇷
 
 ----
 
-<br>
-     
    
 <b> Contact me:
 <div> 
@@ -83,27 +80,39 @@ I'm a self-taught passionate Fullstack developer from Brazil 🇧🇷
    <b> A little more about me:
    ```javascript
 const vedant = {
-    pronouns: "He" | "Him",
+    pronouns: "She" | "Her",
     code: ["Javascript", "Python","HTML", "CSS","MySQL"],
-    askMeAbout: ["WebDev", "Tech", "Gaming"],
+    askMeAbout: ["WebDev", "Tech", "MobileDev"],
     technologies: {
         backEnd: {
             js: ["Node"],
         },
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp","discord.py"]
+        devOps: [ ],
+        databases: ["mongoDB", "MySql"],
+        misc: ["Firebase", "Socket.IO"]
     },
     currentFocus: "Python",
-    fun: "Two bytes meet.  The first byte asks, 'Are you ill?'
-          The second byte replies, 'No, just feeling a bit off.'"
 };
 ```
 #
-   
- <div align="center">
+  
+## Github Stats
+<br>
+ <div>
   <a href="https://github.com/marcelledantas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelledantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
 </div>
 
+<br>
+
+<br>
+
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=marcelledantas&layout=compact)](https://github.com/Envoy-VC/Envoy-VC)
+
+<br>
+<br>
+
+<br>
+
+<img src="https://i.ibb.co/0MZzJ2d/download.png" border="0">
 
