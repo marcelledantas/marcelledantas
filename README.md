@@ -1,4 +1,4 @@
-# Hello There 👋 I'm Marcelle Dantas!
+# Hello There 👋 I'm Marcelle Dantas
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Welcome!">
 </p>
