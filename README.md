@@ -109,7 +109,7 @@ const vedant = {
 ##
 <br>
 
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=marcelledantas&layout=compact)](https://github.com/Envoy-VC/Envoy-VC)
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=marcelledantas&layout=compact)](https://github.com/marcelledantas)
 
 <br>
 
