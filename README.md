@@ -77,7 +77,8 @@ I'm a self-taught passionate Fullstack developer from Brazil 🇧🇷
   <a href="https://www.linkedin.com/in/marcelle-dantas-47456a145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-   <br>
+<br>
+<br>
 
 [![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=marcelledantas&layout=compact)](https://github.com/marcelledantas)
 
