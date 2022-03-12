@@ -66,7 +66,7 @@ I'm a self-taught passionate Fullstack developer from Brazil 🇧🇷
 
 
 <br>
-<br>
+
 
 ----
 
@@ -77,15 +77,22 @@ I'm a self-taught passionate Fullstack developer from Brazil 🇧🇷
   <a href="https://www.linkedin.com/in/marcelle-dantas-47456a145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
+
+
+
+
 <br>
+
+## Github Stats
+<br>
+ <div>
+  <a href="https://github.com/marcelledantas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelledantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelledantas&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <br>
 
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=marcelledantas&layout=compact)](https://github.com/marcelledantas)
-
-<br>
-
-
- ##
    
   ##
    <b> A little more about me:
@@ -107,16 +114,7 @@ const vedant = {
 ```
 #
   
-## Github Stats
-<br>
- <div>
-  <a href="https://github.com/marcelledantas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelledantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-</div>
 
-<br>
-
-##
 
 <br>
 
