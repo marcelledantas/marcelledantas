@@ -9,7 +9,7 @@ I'm a self-taught passionate Fullstack developer from Brazil 🇧🇷
 
 - 💼 Software Developer Intern 
 - ❤️ I love writing Python, and I am currently doing a Python Bootcamp.
-- 👯 I’m looking to contribute to open source
+- 👯 I’m looking to contribute to learn Java
 - 🌵 Fun fact: I love going for a hiking
 
 #
