@@ -8,7 +8,7 @@ I'm a self-taught passionate Fullstack developer from Brazil 🇧🇷
 
 <b> About me
 
-- 💼 Software Developer Intern 
+- 💼 Software Developer Intern at MindsAtWork
 - ❤️ I love writing Python, and I am currently doing a Python Bootcamp.
 - 👯 I’m looking to learn Java
 - 🌵 Fun fact: I love going for a hiking
