@@ -1,6 +1,7 @@
 # Hello There 👋 I'm Marcelle Dantas
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Welcome">
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Welcome!">
+
 </p>
 
 I'm a self-taught passionate Fullstack developer from Brazil 🇧🇷
@@ -12,6 +13,25 @@ I'm a self-taught passionate Fullstack developer from Brazil 🇧🇷
 - 👯 I’m looking to learn Java
 - 🌵 Fun fact: I love going for a hiking
 
+<b> Contact me:
+<div> 
+  <a href = "mailto:marcellemoraesdantas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcelle-dantas-47456a145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+     
+<br>
+
+## Github Stats
+<br>
+ <div>
+  <a href="https://github.com/marcelledantas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelledantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelledantas&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<br>   
+   
+   
 #
 # My Skill Set <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <table><tr><td valign="top" width="33%">
@@ -68,32 +88,7 @@ I'm a self-taught passionate Fullstack developer from Brazil 🇧🇷
 <br>
 
 
-----
-
-   
-<b> Contact me:
-<div> 
-  <a href = "mailto:marcellemoraesdantas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcelle-dantas-47456a145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
   
-
-
-
-
-<br>
-
-## Github Stats
-<br>
- <div>
-  <a href="https://github.com/marcelledantas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelledantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelledantas&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<br>
-
-   
   ##
    <b> A little more about me:
    ```javascript
