@@ -1,11 +1,9 @@
 # Hello There 👋 I'm Marcelle Dantas
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Welcome">
-<p align="center">
 
 </p>
 
-I'm a self-taught passionate Fullstack developer from Brazil 🇧🇷
-
+I'm a passionate Fullstack Engineer from Brazil 🇧🇷
+<br>
 <b> About me
 
 - 💼 Software Developer Intern at MindsAtWork
