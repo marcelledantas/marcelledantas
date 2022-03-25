@@ -12,7 +12,7 @@ Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering 
 
 - 💼 Software Developer Intern at MindsAtWork
 - ❤️ I love writing Python, and I am currently doing a Python Bootcamp.
-- 👯 I’m looking to learn Java
+- 👯 I’m looking forward to learning Java
 - 🌵 Fun fact: I love going for a hiking
 
 <b> Contact me:
