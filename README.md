@@ -2,8 +2,11 @@
 
 </p>
 
-I'm a passionate Fullstack Engineer from Brazil 🇧🇷
+I'm a passionate Fullstack Software Developer from Brazil 🇧🇷
+I'm currently an undergraduate pursuing my bachelor's in Computer Engineering \o/
 <br>
+<br>
+
 <b> About me
 
 - 💼 Software Developer Intern at MindsAtWork
