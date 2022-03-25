@@ -3,7 +3,8 @@
 </p>
 
 I'm a passionate Fullstack Software Developer from Brazil 🇧🇷
-I'm currently an undergraduate pursuing my bachelor's in Computer Engineering \o/
+<br>
+Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering \o/
 <br>
 <br>
 
