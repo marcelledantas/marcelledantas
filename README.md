@@ -2,7 +2,7 @@
 
 </p>
 
-I'm a passionate Fullstack Software Developer from Brazil 🇧🇷
+I'm a Fullstack Software Developer from Brazil 🇧🇷
 <br>
 Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering \o/
 <br>
