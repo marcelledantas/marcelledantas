@@ -40,7 +40,6 @@ Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering 
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
@@ -48,11 +47,7 @@ Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -67,9 +62,6 @@ Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -80,8 +72,7 @@ Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+
 </div>
 
 </td></tr></table>  
@@ -96,17 +87,17 @@ Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering 
    ```javascript
 const vedant = {
     pronouns: "She" | "Her",
-    code: ["Javascript", "Python","HTML", "CSS","MySQL"],
+      code: ["Javascript", "Java","C", "Python","SQL"],
     askMeAbout: ["WebDev", "Tech", "MobileDev"],
     technologies: {
         backEnd: {
-            js: ["Node"],
+            back: ["Node", "Java"],
         },
         devOps: [ ],
-        databases: ["mongoDB", "MySql"],
-        misc: ["Firebase", "Socket.IO"]
+        databases: ["PosgreSQL", "MySql"],
+        misc: ["Firebase"]
     },
-    currentFocus: "Python",
+    currentFocus: "Java",
 };
 ```
 #
