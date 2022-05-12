@@ -2,7 +2,8 @@
 
 </p>
 
-I'm a Fullstack Software Developer from Brazil 🇧🇷
+Constantly learning how to develop software.
+Brazil 🇧🇷
 <br>
 Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering \o/
 <br>
