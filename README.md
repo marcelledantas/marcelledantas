@@ -3,7 +3,7 @@
 </p>
 
 Constantly learning how to develop software.
-Brazil 🇧🇷
+From Brazil 🇧🇷
 <br>
 Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering \o/
 <br>
