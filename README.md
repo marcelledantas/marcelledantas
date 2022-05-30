@@ -24,7 +24,6 @@ Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering 
      
 <br>
 
-## Github Stats
 <br>
 <div style="display: inline_block"><br>
   <a href="https://github.com/marcelledantas">
