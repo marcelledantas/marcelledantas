@@ -26,7 +26,7 @@ Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering 
 
 ## Github Stats
 <br>
- <div>
+<div style="display: inline_block"><br>
   <a href="https://github.com/marcelledantas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelledantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelledantas&layout=compact&langs_count=7&theme=dracula"/>
