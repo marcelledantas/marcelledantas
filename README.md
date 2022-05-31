@@ -3,9 +3,10 @@
 </p>
 
 Constantly learning how to develop software.
-From Brazil 🇧🇷
 <br>
 Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering \o/
+<br>
+From Brazil 🇧🇷
 <br>
 <br>
 
@@ -28,10 +29,6 @@ Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering 
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelledantas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<br>   
-   
-   
-#
 # My Skill Set <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <table><tr><td valign="top" width="33%">
 
@@ -73,13 +70,8 @@ Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering 
 </div>
 
 </td></tr></table>  
-
-
 <br>
 
-
-  
-  ##
    <b> A little more about me:
    ```javascript
 const vedant = {
