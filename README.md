@@ -80,13 +80,13 @@ const vedant = {
     askMeAbout: ["WebDev", "Tech", "MobileDev"],
     technologies: {
         backEnd: {
-            back: ["Node", "Java"],
+            back: ["NodeJS", "Java"],
         },
-        devOps: [ ],
+        devOps: ["Docker"],
         databases: ["PosgreSQL", "MySql"],
         misc: ["Firebase"]
     },
-    currentFocus: "Java",
+    currentFocus: "Java", "JavaScript"
 };
 ```
 #
