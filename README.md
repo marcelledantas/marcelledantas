@@ -1,12 +1,12 @@
 # Hello There 👋 I'm Marcelle Dantas
 
 </p>
-
-Constantly learning how to develop software.
+FullStack Developer From Brazil 🇧🇷.
+Constantly learning how to develop Software.
 <br>
 Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering \o/
 <br>
-From Brazil 🇧🇷
+
 <br>
 <br>
 
