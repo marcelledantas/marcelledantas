@@ -1,14 +1,13 @@
-# Hello There 👋 I'm Marcelle Dantas
+[ENG]
+<br>
+👋 
+I'm Marcelle Dantas and I am FullStack Developer From Brazil 🇧🇷.
 
-</p>
-FullStack Developer From Brazil 🇧🇷.
-Constantly learning how to develop Software.
+Constantly learning how to develop Software. I had the opportunity to work in Java (MVC Architecture) projects and JS projects on Front-End.
 <br>
 Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering \o/
 <br>
 
-<br>
-<br>
 
 <b> About me
 
