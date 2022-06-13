@@ -69,26 +69,7 @@ Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering 
 </div>
 
 </td></tr></table>  
-<br>
 
-   <b> A little more about me:
-   ```javascript
-const vedant = {
-    pronouns: "She" | "Her",
-      code: ["Javascript", "Java","C", "Python","SQL"],
-    askMeAbout: ["WebDev", "Tech", "MobileDev"],
-    technologies: {
-        backEnd: {
-            back: ["NodeJS", "Java"],
-        },
-        devOps: ["Docker"],
-        databases: ["PosgreSQL", "MySql"],
-        misc: ["Firebase"]
-    },
-    currentFocus: "Java", "JavaScript"
-};
-```
-#
   
 
 
