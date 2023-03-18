@@ -1,4 +1,3 @@
-[ENG]
 <br>
 👋 
 I'm Marcelle Dantas and I am FullStack Developer From Brazil 🇧🇷.
