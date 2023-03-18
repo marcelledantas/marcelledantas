@@ -12,9 +12,9 @@ Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering 
 <b> About me
 
 - 💼 Software Developer Intern at MindsAtWork
-- ❤️ I love writing JavaScript, and I am currently doing a JavaScript Bootcamp.
+- ❤️ I love writing JavaScript and Java, and I am currently doing a JavaScript Bootcamp.
 - 👯 Sharping my Java skills
-- 🐱 Fun fact: I'm a cat person
+
 
 <b> Contact me:
 <div> 
