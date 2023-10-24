@@ -1,8 +1,8 @@
 <br>
 
-I am FullStack Developer From Brazil 🇧🇷. 👋 
+I work as a fullstack developer in Brazil 🇧🇷. 👋 
 
-Constantly learning how to develop Software. I had the opportunity to work in Java Spring Boot projects using MVC Architecture and Angular on Front-End.
+Constantly learning how to develop Software. I have the opportunity to work in Java Spring Boot projects using MVC Architecture and Angular on Front-End.
 Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering \o/
 <br>
 
