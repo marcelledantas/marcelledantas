@@ -13,10 +13,6 @@ Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering 
 - ❤️ I love writing JavaScript and Java, and I am currently doing a JavaScript Bootcamp.
 
 <b> Contact me:
-<div> 
-  <a href = "mailto:marcellemoraesdantas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcelle-dantas-47456a145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <div style="display: inline_block"><br>
