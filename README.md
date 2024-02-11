@@ -2,7 +2,7 @@
 
 I work as a fullstack developer in Brazil 🇧🇷. 👋 
 
-Constantly learning how to develop Software. I have the opportunity to work with Java and .NET projects using MVC Architecture. Also, using Angular on Front-End.
+Constantly learning how to develop Software. I have the opportunity to work with Java and .NET projects and Angular on the client side.
 <br>
 
 
