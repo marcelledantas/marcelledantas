@@ -2,8 +2,7 @@
 
 I work as a fullstack developer in Brazil 🇧🇷. 👋 
 
-Constantly learning how to develop Software. I have the opportunity to work in Java Spring Boot projects using MVC Architecture and Angular on Front-End.
-Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering \o/
+Constantly learning how to develop Software. I have the opportunity to work with Java and .NET projects using MVC Architecture. Also, using Angular on Front-End.
 <br>
 
 
