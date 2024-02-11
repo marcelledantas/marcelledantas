@@ -9,8 +9,8 @@ Currently, I am an undergraduate pursuing my bachelor's in Computer Engineering 
 
 <b> About me
 
-- 💼 Software Developer Intern at MindsAtWork
-- ❤️ Graduated at Computer Engineering at PUC-RIO - Brazil
+- Software Developer at MindsAtWork
+- Graduated at Computer Engineering at PUC-RIO - Brazil
 
 
 <div> 
