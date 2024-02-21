@@ -11,6 +11,7 @@ Constantly learning how to develop Software. I have the opportunity to work with
 - Software Developer at MindsAtWork
 - Graduated at Computer Engineering at PUC-RIO - Brazil
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
 
 <div> 
   <a href = "mailto:marcellemoraesdantas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
