@@ -1,16 +1,5 @@
 <br>
 
-I work as a fullstack developer in Brazil 🇧🇷. 👋 
-
-Constantly learning how to develop Software. I have the opportunity to work with Java and .NET projects and Angular on the client side.
-<br>
-
-
-<b> About me
-
-- Software Developer at MindsAtWork
-- Graduated at Computer Engineering at PUC-RIO - Brazil
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelledantas&layout=compact&theme=dark)
 
 <div> 
